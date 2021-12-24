@@ -1,0 +1,27 @@
+*section header - Paneles de secciones
+
+- Mensaje
+
+*section Experiencia:
+
+- HTML5
+
+- CSS3
+
+- Javascript
+
+- Sass
+
+- Bootstrap
+
+*Proyectos realizados:
+
+-Web 1
+
+-Web 2­
+
+-Web 3
+
+*section Footer-
+
+- Formulario
